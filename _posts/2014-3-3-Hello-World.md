@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: CVE-2019-12863
 published: true
 ---
 ##  Stored HTML Injection vulnerability in SolarWinds Orion Platform "CVE-2019-12863"
@@ -89,4 +89,4 @@ Vulnerability disclosed to the public
 
 [Has vendor confirmed or acknowledged the vulnerability?]
 
-Yes                        
+Yes
