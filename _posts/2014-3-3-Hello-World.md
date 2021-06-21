@@ -52,7 +52,7 @@ Method of Exploitation
 2) Install the exe file.
 
 3) Open orion web console (hostname of system:8787)
-![1.png]({{site.baseurl}}/Assets/Images/1.png)
+https://github.com/ShashankChaurasia/ShashankChaurasia.github.io/blob/08baaf205f76dac19be23177951efca5f8e63668/Assets/Images/1.png
 
 4) Enter admin as username and “blank” as password.
 ![2.png]({{site.baseurl}}/_posts/2.png)
