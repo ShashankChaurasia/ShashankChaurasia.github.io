@@ -53,30 +53,29 @@ Method of Exploitation
 2) Install the exe file.
 
 3) Open orion web console (hostname of system:8787)
-![]({{site.baseurl}}/https://github.com/ShashankChaurasia/ShashankChaurasia.github.io/blob/08baaf205f76dac19be23177951efca5f8e63668/Assets/Images/1.png)
 
 ![1.png]({{site.baseurl}}/Assets/Images/1.png)
 
 4) Enter admin as username and “blank” as password.
-![2.png]({{site.baseurl}}/_posts/2.png)
+![2.png]({{site.baseurl}}/Assets/Images/2.png)
 
  5) Go to settings > all settings
- ![3.png]({{site.baseurl}}/_posts/3.png)
+ ![3.png]({{site.baseurl}}/Assets/Images/3.png)
 
 6) Then go to Product specific settings >Web console settings
-![4.png]({{site.baseurl}}/_posts/4.png)
+![4.png]({{site.baseurl}}/Assets/Images/4.png)
 
  7) here you can see Site login text box.
-![5.png]({{site.baseurl}}/_posts/5.png)
+![5.png]({{site.baseurl}}/Assets/Images/5.png)
 
  8) Here enter your malicious html for example “<h1><a href=”http://www.evilwebsite.com“>Click Here for Login</a></h1>”  <h1><a href=”http://www.evilwebsite.com”>ShashanK</a></h1>
- ![6.png]({{site.baseurl}}/_posts/6.png)
+ ![6.png]({{site.baseurl}}/Assets/Images/6.png)
 
  9) now submit the changes and logout of the application.
- ![7.png]({{site.baseurl}}/_posts/7.png)
+ ![7.png]({{site.baseurl}}/Assets/Images/7.png)
 
 10) Now on the login page you can see the modified content. Upon hovering we can see it will redirect to http://www.evilwebsite.com. This is Stored HTML Injection.
-![8.png]({{site.baseurl}}/_posts/8.png)
+![8.png]({{site.baseurl}}/Assets/Images/8.png)
 
 **Disclosure Process**:
 
