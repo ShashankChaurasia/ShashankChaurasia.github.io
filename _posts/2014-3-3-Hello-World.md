@@ -3,6 +3,7 @@ layout: post
 title: CVE-2019-12863
 published: true
 ---
+
 ##  Stored HTML Injection vulnerability in SolarWinds Orion Platform "CVE-2019-12863"
 
 **Discoverer: Shashank Chaurasia**
@@ -53,6 +54,8 @@ Method of Exploitation
 
 3) Open orion web console (hostname of system:8787)
 ![]({{site.baseurl}}/https://github.com/ShashankChaurasia/ShashankChaurasia.github.io/blob/08baaf205f76dac19be23177951efca5f8e63668/Assets/Images/1.png)
+
+![1.png]({{site.baseurl}}/Assets/Images/1.png)
 
 4) Enter admin as username and “blank” as password.
 ![2.png]({{site.baseurl}}/_posts/2.png)
